@@ -2,9 +2,29 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
-.photoback {
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+footer {
+  font-size: 11px;
   color: white;
-  background-image: url('broadway\resources\images\the-flatiron-building.png');
+  background-color: dimgray;
+  text-align: left;
+}
+nav {
+  font-color: white;
+}
+.btn-nav {
+  font-size: 18px;
+}
+.top {
+background-image: url("../images/the-flatiron-building.png");
+color: white;
 }
 .headline {
   font-size: 70px;
