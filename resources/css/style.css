@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+.photoback {
+  color: white;
+  background-image: url('broadway\resources\images\the-flatiron-building.png');
+}
+.headline {
+  font-size: 70px;
+  font-weight: bold;
+}
