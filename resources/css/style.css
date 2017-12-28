@@ -19,8 +19,12 @@ footer {
 nav {
   font-color: white;
 }
+nav a {
+  color: white;
+}
 .btn-nav {
   font-size: 18px;
+  text-decoration: underline;
 }
 .top {
 background-image: url("../images/the-flatiron-building.png");
